@@ -1,0 +1,45 @@
+# Contributing to Open-Source Information Security Curriculum
+
+Firstly, thank you for your interest and initiative in contributing to our Open-Source Information Security Curriculum. The Misinformation Village's DEFCON 31 program is a collective endeavor by the Village contributors and attendees. We are using GitHub in order to collect and actionalize attendee contributions in all forms they come (text, datasets, link, etc.). We value your contribution. Your efforts are appreciated, and we want you to know that your contribution truly makes a difference to our ecosystem.
+
+## Getting Started
+
+### Our Mission
+
+As part of the Misinformation Village, we represent a collaborative of dis- and misinformation researchers, data analysts and computer linguists, cybersecurity and defence professionals, and all like-minded professionals across academia, civil society, government, and industry. 
+
+Our aim is to establish open and broad-sector frameworks to define, expose, analyze, and counter the security challenges of misinformation and disinformation campaigns on democratic regimes, free markets, public trust, and open and progressive societies.
+
+### Why Open Frameworks?
+
+We strongly believe in the power of open frameworks and open data infrastructure. They enhance and promote the production of scientific knowledge and industry expertise by enabling collaboration, information sharing, transparency, and reproducibility. 
+
+By creating a common "space" for researchers to share data, tools, knowledge, and information, we aim to facilitate more accurate, fuller, richer, and trusted research outcomes. This leads to better-informed policy decisions and innovative solutions to complex problems. 
+
+Our commitment to diversity and inclusivity ensures that the benefits of scientific progress are shared widely. This means welcoming diverse speakers, unorthodox ideas, and unfinished projects into our fold. By supporting open frameworks, we strive to accelerate scientific discovery and innovation, creating a more collaborative space for professionals and audience members alike.
+
+### How to Contribute?
+
+Now that you understand our mission and why we operate in an open-source manner, let's get into the specifics of how you can contribute to this project. 
+
+* **Familiarize Yourself:** Understand the current structure and content of our curriculum. Our curriculum is organized into eight key modules, each focusing on a specific aspect of information security. Knowing where your expertise or interest fits in will help you make meaningful contributions.
+
+## Making Changes
+
+* **Fork and Clone:** The first step in making a change is to fork the repository to your GitHub account. This will create a copy that you can safely experiment with. Once forked, clone the repository to your local machine to start making changes.
+
+* **Branch Out:** Always create a new branch for your changes. It keeps your modifications organized and isolated, helping you and others understand the specific objective of your changes.
+
+* **Stick to the Plan:** The curriculum is structured and styled in a specific way to ensure consistency and clarity. While we welcome innovation and creativity, try to maintain consistency with the existing structure and style of the curriculum. If you're introducing a significant stylistic change, please explain your reasoning in your commit or pull request.
+
+## Submitting Changes
+
+1.  **Quality Assurance:** Before submitting your changes, thoroughly review and test them to ensure they work as expected and enhance the existing content. This is a crucial step because it minimizes the chances of introducing bugs or errors into the curriculum.
+
+2. **Commit with Clarity:** When you commit your changes, write a clear, concise, and descriptive commit message. This message should explain what changes you've made and why. A good commit message allows others to understand your thought process and the purpose behind your contribution.
+
+3.  **Push It:** Push your changes to your forked repository. This makes your updates accessible to others.
+
+4.  **Pull Request:** Once you're satisfied with your changes, submit a pull request to the main repository. In your pull request, provide a detailed description of your changes and their significance. Explain why you believe your contribution improves the curriculum.
+
+5.  **Stay Involved:** Once your pull request is submitted, stay engaged. The maintainers of the repository will review your pull request and may provide feedback or ask for changes. Be prepared to discuss your contribution and potentially make revisions based on the feedback you receive.
